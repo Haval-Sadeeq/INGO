@@ -9,8 +9,8 @@
 % INGO
 % % % % % Improved Northern Goshawk Optimization Algorithm for Global Optimization
 % Haval Tariq Sadeeq and Adnan Mohsin Abdulazeez            
-%1Technical Informatics College of Akre, Duhok Polytechnic University, Duhok, Kurdistan-Iraq, haval.tariq@dpu.edu.krd                      
-%2Technical College of Engineering-Duhok,Duhok Polytechnic University, Duhok, Kurdistan-Iraq, adnan.mohsin@dpu.edu.krd  
+%1Duhok Polytechnic University, Duhok, Kurdistan-Iraq, haval.tariq@dpu.edu.krd                      
+%2Duhok Polytechnic University, Duhok, Kurdistan-Iraq, adnan.mohsin@dpu.edu.krd  
                                                                                     
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc
